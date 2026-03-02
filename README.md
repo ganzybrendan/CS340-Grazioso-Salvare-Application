@@ -20,3 +20,15 @@ The motivation behind this is to create an application that is able to access, s
 The way the application works is that the MongoDB runs locally and the Austin Animal Center dataset is imported to the mongoDB. The CRUD module then connects to the database and retrieves all the animal records. The user is then able to interact with the controls in the application to transfer animals to different locations. Some challenges i ran into were some filters returning no data at times and the mapping with geolocation. 
 
 
+-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Writing programs that are maintainable and adaptable consist of focusing on reuse and big O notion, as well as readability of your code. In this program specificaly, these aspects were mainly focused on with the CRUD method in python. 
+
+
+-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As a computer scientist, I approached the problem of creating a dashboard application for Grazioso Salvare by analyzing the company's requirments which were database connection, data visualization and geolocation mapping. 
+
+-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer Scientists create and maintain systems that provide services and tools, that provide the accessability for new inventions and the advancement of the human race. This project has the ability to help companies like Grazioso Salvare use the data that they collect to create, update, read and delete classifications and catagories that help better understand the information they have collected. 
+
+
+
